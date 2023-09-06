@@ -1,5 +1,6 @@
 import random as rand
-a= rand.randint(1, 30)
+a= rand.randint(1, 20)
+
 print("length:", a)
 x=[]
 for i in range(a):
