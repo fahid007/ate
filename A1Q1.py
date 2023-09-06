@@ -1,7 +1,7 @@
 a=int(input())
 b=int(input())
 
-ashik
+fahid
 if a%b==0:
     print("True")
 else:
