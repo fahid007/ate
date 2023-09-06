@@ -1,9 +1,5 @@
 import random as rand
 a= rand.randint(1, 20)
-<<<<<<< HEAD
-
-=======
->>>>>>> 4439c59 (changed limits)
 print("length:", a)
 x=[]
 for i in range(a):
