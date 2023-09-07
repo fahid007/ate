@@ -8,3 +8,4 @@ with open ('script1.csv', 'r') as csv_file:
 print(my_dict)
 for keys, values in my_dict.items():
     print("key:",keys, "|", "Value:", values)
+#fahid
